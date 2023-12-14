@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "name": "Shahid Jameel",
+      "class": "8",
+      "section": "D",
+      "id": 19093
+    },
+    {
+      "id": "19080",
+      "name": "Maham",
+      "class": "3",
+      "section": "C"
+    },
+    {
+      "id": "190446",
+      "name": "sharjeel jameel",
+      "class": "12",
+      "section": "B"
+    }
+  ],
+  "classes": [
+    {
+      "id": 2,
+      "name": "4",
+      "description": "Class 4"
+    }
+  ],
+  "sections": [
+    {
+      "id": 2,
+      "name": "B"
+    }
+  ]
+}
